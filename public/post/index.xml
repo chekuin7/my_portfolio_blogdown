@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on HSU, Ting-Yu(Cesar)</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on HSU, Ting-Yu(Cesar)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jan 2020 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video_Mandarin</title>
+      <link>/2020/01/04/video_mandarin/</link>
+      <pubDate>Sat, 04 Jan 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/2020/01/04/video_mandarin/</guid>
+      <description>R Markdown / VideoEasy Taiwanese Mandarin
+Wagah Border,India
+Delhi, India
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25.0 Max. :120.00fit &amp;lt;- lm(dist ~ speed, data = cars)fit## ## Call:## lm(formula = dist ~ speed, data = cars)## ## Coefficients:## (Intercept) speed ## -17.</description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>/2019/12/25/publication/</link>
+      <pubDate>Wed, 25 Dec 2019 13:09:13 -0600</pubDate>
+      
+      <guid>/2019/12/25/publication/</guid>
+      <description>List
+1.Blockchain Application on Property Insurance Market - Decentralisation upon Insurance Broker2.New Insight into India in Terms of Education and Culture, Crossing</description>
+    </item>
+    
+    <item>
+      <title>Foreign Language Certificate</title>
+      <link>/2019/12/20/foreign-language-certificate/</link>
+      <pubDate>Fri, 20 Dec 2019 21:49:57 -0700</pubDate>
+      
+      <guid>/2019/12/20/foreign-language-certificate/</guid>
+      <description>1.English - IELTS band 7 2.Japanese - JLPT N2 Pass 3.Japanese - JLPT N1 90pts 4.German - B1 level 5.Hindi - 21-hour learning certificate  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&#39;s Markdown and Pandoc&#39;s Markdown.</description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>/2018/10/31/video/</link>
+      <pubDate>Wed, 31 Oct 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/2018/10/31/video/</guid>
+      <description>R Markdown / VideoPompeii, Italy
+Wagah Border,India
+Delhi, India
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25.0 Max. :120.00fit &amp;lt;- lm(dist ~ speed, data = cars)fit## ## Call:## lm(formula = dist ~ speed, data = cars)## ## Coefficients:## (Intercept) speed ## -17.</description>
+    </item>
+    
+  </channel>
+</rss>

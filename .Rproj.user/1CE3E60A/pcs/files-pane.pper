@@ -1,0 +1,9 @@
+{
+    "path" : "~/my_portfolio_blogdown/public/images",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577635465891.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "94F4299E",
+    "lastKnownWriteTime" : 1577685906,
+    "last_content_update" : 1577685906734,
+    "path" : "~/my_portfolio_blogdown/content/post/2015-01-01-lorem-ipsum.md",
+    "project_path" : "content/post/2015-01-01-lorem-ipsum.md",
+    "properties" : {
+        "cursorPosition" : "9,2",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
