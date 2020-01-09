@@ -3,9 +3,9 @@ date: "2020-01-08T21:48:51-07:00"
 title: About
 ---
 
-Having worked in Property Insurance field for one year, initiated as an Underwriter, subsequently Associate at Insuance Broker.<br />
+Having worked in Property Insurance field for one year, initiated as an Underwriter, and subsequently Associate at Insuance Broker.<br />
 
-I am also having an avid reader in Business Analytics #Python #R #Tableau #SQL and Fintech Insight #P2P #Blockchain.<br />
+I am also having an avid interests in Business Analytics #Python #R #Tableau #SQL and Fintech Insight #P2P #Blockchain.<br />
 
 Have an aptitute to communicate with coworkers and customers coming from diverse cultural and nationality backgrounds. In the meantime, owning the foreign language skills in Mandarin (Native), English (IELTS 7), Japanese (N2 Pass), German(B1-Level), and Hindi (Beginner).
 

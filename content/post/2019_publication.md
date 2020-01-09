@@ -12,9 +12,9 @@ Predicting Compensation Value of Candidates,Business Analytics&Data Mining,NTHU]
 
 3.[Analysis into Fintech Industry](https://drive.google.com/file/d/1ckz2vWPuE0SbEzbUuZEIisD9qHoquHfh/view?usp=sharing)<br />
 
-4.[UBIFI-Inclusive Financing_ICSB_Final pitch_UBIFI](https://drive.google.com/file/d/1IHcVMzykQz3h2VBS9YyouYoA2SDa-tca/view?usp=sharing
+4.[UBIFI-Inclusive Financing_ICSB_Final pitch](https://drive.google.com/file/d/1IHcVMzykQz3h2VBS9YyouYoA2SDa-tca/view?usp=sharing
 )<br />
 
-5.[New Insight into India in Terms of Education and Culture, Crossing](https://crossing.cw.com.tw/blogTopic.action?id=1020&nid=10033)<br />
+5.[New Insight into India in Terms of Education and Culture, 換日線Crossing](https://crossing.cw.com.tw/blogTopic.action?id=1020&nid=10033)<br />
 
 6.[2016 TAA 校園創意策略提案競賽_SETvolution 東南旅行社](https://drive.google.com/file/d/13dWXPf4sBOpvc7KUxt09ZXYE3SyZvSoC/view?usp=sharing)
