@@ -6,23 +6,10 @@
     <description>Recent content in Posts on HSU, Ting-Yu(Cesar)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jan 2020 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2019 13:09:13 -0600</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Video_Mandarin</title>
-      <link>/2020/01/04/video_mandarin/</link>
-      <pubDate>Sat, 04 Jan 2020 21:13:14 -0500</pubDate>
-      
-      <guid>/2020/01/04/video_mandarin/</guid>
-      <description>R Markdown / VideoEasy Taiwanese Mandarin
-Wagah Border,India
-Delhi, India
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25.0 Max. :120.00fit &amp;lt;- lm(dist ~ speed, data = cars)fit## ## Call:## lm(formula = dist ~ speed, data = cars)## ## Coefficients:## (Intercept) speed ## -17.</description>
-    </item>
     
     <item>
       <title>Publication</title>
@@ -31,7 +18,7 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
       <guid>/2019/12/25/publication/</guid>
       <description>List
-1.Blockchain Application on Property Insurance Market - Decentralisation upon Insurance Broker2.New Insight into India in Terms of Education and Culture, Crossing</description>
+1.Blockchain Application on Property Insurance Market - Decentralisation upon Insurance Broker2.Enhancing Efficiency of Employment by Predicting Compensation Value of Candidates,Business Analytics&amp;amp;Data Mining,NTHU3.Analysis into Fintech Industry4.UBIFI-Inclusive Financing_ICSB_Final pitch_UBIFI5.New Insight into India in Terms of Education and Culture, Crossing6.2016 TAA 校園創意策略提案競賽_SETvolution 東南旅行社</description>
     </item>
     
     <item>
@@ -40,20 +27,28 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Fri, 20 Dec 2019 21:49:57 -0700</pubDate>
       
       <guid>/2019/12/20/foreign-language-certificate/</guid>
-      <description>1.English - IELTS band 7 2.Japanese - JLPT N2 Pass 3.Japanese - JLPT N1 90pts 4.German - B1 level 5.Hindi - 21-hour learning certificate  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&#39;s Markdown and Pandoc&#39;s Markdown.</description>
+      <description>1.English - IELTS band 72.Japanese - JLPT N2 Pass 3.Japanese - JLPT N1 90pts 4.German - B1 level 5.Hindi - 21-hour learning certificate </description>
     </item>
     
     <item>
-      <title>Video</title>
-      <link>/2018/10/31/video/</link>
-      <pubDate>Wed, 31 Oct 2018 21:13:14 -0500</pubDate>
+      <title>Finance Certificate</title>
+      <link>/2019/11/23/finance-certificate/</link>
+      <pubDate>Sat, 23 Nov 2019 21:49:57 -0700</pubDate>
       
-      <guid>/2018/10/31/video/</guid>
-      <description>R Markdown / VideoPompeii, Italy
+      <guid>/2019/11/23/finance-certificate/</guid>
+      <description>1.Data Science Essentials(DAT203.1x) by Microsoft 2.Introduction to Python for Data Science(DAT203.1x) by Microsoft 3.區塊鏈應用敲門磚：行動支付到商業案例 完課證明by Hahow好學校4.財產保險業務員資格測驗5.人身保險業務員資格測驗 6.金融數位力知識檢定測驗 by 台灣金融研訓院 7.初階外匯人員專業能力測驗簡章 8.公司治理(130分) by 證期會9.金融市場常識與職業道德 </description>
+    </item>
+    
+    <item>
+      <title>Tourist Video</title>
+      <link>/2018/11/01/tourist-video/</link>
+      <pubDate>Thu, 01 Nov 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/2018/11/01/tourist-video/</guid>
+      <description>ListPompeii, Italy
+Qutub Minar,Delhi, India
 Wagah Border,India
-Delhi, India
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25.0 Max. :120.00fit &amp;lt;- lm(dist ~ speed, data = cars)fit## ## Call:## lm(formula = dist ~ speed, data = cars)## ## Coefficients:## (Intercept) speed ## -17.</description>
+</description>
     </item>
     
   </channel>
