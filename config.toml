@@ -10,7 +10,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
+    name = "MandarinGuru"
+    url = "/MandarinGuru/"
+[[menu.main]]
+    name = "About Me"
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
@@ -32,10 +35,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "favicon.ico"
+    favicon = "favicon.png"
 
     [params.logo]
-    url = "logo.png"
+    url = "logoc.png"
     width = 50
     height = 50
     alt = "Logo"

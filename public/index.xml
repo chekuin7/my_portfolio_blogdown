@@ -6,10 +6,46 @@
     <description>Recent content on HSU, Ting-Yu(Cesar)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jan 2020 21:48:51 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2020 21:49:57 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Programming Certificate</title>
+      <link>/2020/02/11/programming-certificate/</link>
+      <pubDate>Tue, 11 Feb 2020 21:49:57 -0700</pubDate>
+      
+      <guid>/2020/02/11/programming-certificate/</guid>
+      <description>1.Data Science Essentials by Microsoft 2.Introduction to Python for Data Science by Microsoft 3.初級資料分析師的工具箱_結業證明 issued by 台灣大學資訊系統訓練班4.SQL資料分析_結業證明 issued by 台灣大學資訊系統訓練班5.乙太坊智能合約(Soliditiy)實作班 (on the process) </description>
+    </item>
+    
+    <item>
+      <title>About MandarinGuru</title>
+      <link>/mandaringuru/</link>
+      <pubDate>Tue, 11 Feb 2020 21:48:51 -0700</pubDate>
+      
+      <guid>/mandaringuru/</guid>
+      <description>Learn Mandarin with ease, with passion, and with Cesar你好 (nĭ hăo)and Welcome to Learning Mandarin I teach the beautiful languages Mandarin in short, easy and fun lessons.My name is Cesar Hsu, 27 years old, with a M.S. in Finance and B.B.A. in International Business. I can teach a wide range of students, from beginners to advanced. With me, I believe that your experience in learning Mandarin will be enjoyable as well as productive.</description>
+    </item>
+    
+    <item>
+      <title>Foreign Language Certificate</title>
+      <link>/2020/02/10/foreign-language-certificate/</link>
+      <pubDate>Mon, 10 Feb 2020 21:49:57 -0700</pubDate>
+      
+      <guid>/2020/02/10/foreign-language-certificate/</guid>
+      <description>1.English - IELTS band 72.Japanese - JLPT N2 Pass 3.Japanese - JLPT N1 90pts 4.German - B1 level 5.Hindi - 21-hour learning certificate 6.Korean - Beginner</description>
+    </item>
+    
+    <item>
+      <title>Finance Certificate</title>
+      <link>/2020/02/07/finance-certificate/</link>
+      <pubDate>Fri, 07 Feb 2020 21:49:57 -0700</pubDate>
+      
+      <guid>/2020/02/07/finance-certificate/</guid>
+      <description>1.區塊鏈應用敲門磚：行動支付到商業案例 完課證明by Hahow好學校2.財產保險業務員資格測驗3.人身保險業務員資格測驗 4.金融數位力知識檢定測驗 by 台灣金融研訓院 5.公司治理基本能力測驗 by 財團法人中華民國證券暨期貨市場發展基金會 6.初階外匯人員專業能力測驗簡章 7.金融市場常識與職業道德 </description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,7 +53,7 @@
       <pubDate>Wed, 08 Jan 2020 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>Having worked in Property Insurance field for one year, initiated as an Underwriter, and subsequently Associate at Insuance Broker.I am also having an avid interests in Business Analytics #Python #R #Tableau #SQL and Fintech Insight #P2P #Blockchain.Have an aptitute to communicate with coworkers and customers coming from diverse cultural and nationality backgrounds. In the meantime, owning the foreign language skills in Mandarin (Native), English (IELTS 7), Japanese (N2 Pass), German(B1-Level), and Hindi (Beginner).</description>
+      <description>Having worked in Property Insurance field for one year, initiated as an Underwriter, and subsequently Associate at Insuance Broker.I am also having an avid interests in Business Analytics #Python #R #Tableau #SQL and Fintech Insight #P2P #Blockchain #Ethereum.Have an aptitute to communicate with coworkers and customers coming from diverse cultural and nationality backgrounds. In the meantime, owning the foreign language skills in Mandarin (Native), English (IELTS 7), Japanese (N2 Pass), German(B1-Level), and Hindi (Beginner).</description>
     </item>
     
     <item>
@@ -28,24 +64,6 @@
       <guid>/2019/12/25/publication/</guid>
       <description>List
 1.Blockchain Application on Property Insurance Market - Decentralisation upon Insurance Broker2.Enhancing Efficiency of Employment by Predicting Compensation Value of Candidates,Business Analytics&amp;amp;Data Mining,NTHU3.Analysis into Fintech Industry4.UBIFI-Inclusive Financing_ICSB_Final pitch5.New Insight into India in Terms of Education and Culture, 換日線Crossing6.2016 TAA 校園創意策略提案競賽_SETvolution 東南旅行社</description>
-    </item>
-    
-    <item>
-      <title>Foreign Language Certificate</title>
-      <link>/2019/12/20/foreign-language-certificate/</link>
-      <pubDate>Fri, 20 Dec 2019 21:49:57 -0700</pubDate>
-      
-      <guid>/2019/12/20/foreign-language-certificate/</guid>
-      <description>1.English - IELTS band 72.Japanese - JLPT N2 Pass 3.Japanese - JLPT N1 90pts 4.German - B1 level 5.Hindi - 21-hour learning certificate </description>
-    </item>
-    
-    <item>
-      <title>Finance Certificate</title>
-      <link>/2019/11/23/finance-certificate/</link>
-      <pubDate>Sat, 23 Nov 2019 21:49:57 -0700</pubDate>
-      
-      <guid>/2019/11/23/finance-certificate/</guid>
-      <description>1.Data Science Essentials by Microsoft 2.Introduction to Python for Data Science by Microsoft 3.區塊鏈應用敲門磚：行動支付到商業案例 完課證明by Hahow好學校4.財產保險業務員資格測驗5.人身保險業務員資格測驗 6.金融數位力知識檢定測驗 by 台灣金融研訓院 7.初階外匯人員專業能力測驗簡章 8.公司治理(130分) by 證期會9.金融市場常識與職業道德 </description>
     </item>
     
     <item>
