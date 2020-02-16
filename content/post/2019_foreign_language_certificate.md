@@ -11,7 +11,11 @@ title: Foreign Language Certificate
 
 4.German   - B1 level <br/>
 
-5.Hindi    - 21-hour learning certificate <br/>
+5.Hindi    - 57-hour learning certificate <br/>
+
+    (A)IIT Bombay (21 hr) 
+
+    (B)National Tsinghua University (36 hr) 
 
 6.Korean   - Beginner
 

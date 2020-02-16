@@ -1,5 +1,5 @@
 {
-    "path" : "~/my_portfolio_blogdown/content/post",
+    "path" : "~/my_portfolio_blogdown/content",
     "sortOrder" : [
         {
             "ascending" : false,
